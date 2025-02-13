@@ -1,1 +1,1 @@
-# techx
+🚀 Created **TechX Website** using **HTML & CSS**, featuring a sleek, responsive, and modern design. 🎨 Focused on clean UI, smooth navigation, and visually appealing layouts. 💻 A step toward mastering front-end development and delivering engaging web experiences!
